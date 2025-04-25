@@ -1,4 +1,4 @@
-<script>
+
         const ADMIN_PASSWORD = "admin123"; // Change this password for security
         
         function postQuestion() {
@@ -71,4 +71,3 @@
                 alert("Incorrect password. You are not authorized to delete this post.");
             }
         }
-    </script>
